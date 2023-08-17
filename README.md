@@ -1,1 +1,1 @@
-# Fandango-Ratings
+# FandangoRatings
